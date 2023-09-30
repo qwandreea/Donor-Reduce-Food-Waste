@@ -56,3 +56,6 @@ Once volunteers send their request, business users approve or reject it. Volunte
 3. Business page <br/>
 The section for item requests from volunteers, accessible to business users. They have the option to view a list of received requests, including details of the volunteer and the requested items. For each request, businesses can choose to accept or reject them. <br/>
 ![](./frontend/screenshots/volunteer%20requests.png)
+
+
+© [This project is my personal work.]
