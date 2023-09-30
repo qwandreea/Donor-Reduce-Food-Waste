@@ -1,8 +1,8 @@
 # Reduce Food Waste - Donor
 
 ## Brief description
-./backend - Express Node.js
-./frontend - ReactJs <br/>
+**./backend**- Express Node.js <br/>
+**./frontend** - ReactJs <br/>
 The idea behind this project stemmed from the observation that a significant quantity of purchased food products ends up being discarded right from one's own household, without a readily available method for reusing them for charitable purposes or even for saving or recovering a certain amount of money.
 
 The objective of this project is to create a simple and user-friendly application that stores information about food products in a suitable condition for donation or optional purchase at a greatly reduced price, and then redistributes them to organizations, food banks, or individuals in need, following a sustainable approach.
