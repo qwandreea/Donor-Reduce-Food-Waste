@@ -13,7 +13,7 @@ Start the backend server. Then, launch the frontend using the `npm start` comman
 
 ## Usage
 
-Multilingual component
+Multilingual component <br/>
 ![](./frontend/screenshots/header.png)
 
 Homepage includes statistics about activity within the application and various information.
@@ -28,8 +28,8 @@ User registration also includes an extension to allow users to sign up as volunt
 
 ![](./frontend/screenshots/register.png)
 
-1. User page
-Listing an item. Validation does not allow listing an item after its expiration date has passed. Submitting the form is not allowed if the donor does not ensure quality and hygiene. The form allows the insertion of a title, a description, a product's condition, along with an image, quantity, measurement unit, and other details
+1. User page <br/>
+Listing an item. Validation does not allow listing an item after its expiration date has passed. Submitting the form is not allowed if the donor does not ensure quality and hygiene. The form allows the insertion of a title, a description, a product's condition, along with an image, quantity, measurement unit, and other details. <br/>
 ![](./frontend/screenshots/listing%20form.png)
 
 Updating personal information or setting preferred pickup addresses.
@@ -43,7 +43,7 @@ User reservations with the option to check item details and cancel a reservation
 
 ![](./frontend/screenshots/reservations.png)
 
-2. Volunteer page
+2. Volunteer page <br/>
 The page displaying the catalog of products provided by businesses for volunteers.
 ![](./frontend/screenshots/volunteer%20explore.png)
 
@@ -51,6 +51,6 @@ The page displaying the catalog of products provided by businesses for volunteer
 Once volunteers send their request, business users approve or reject it. Volunteers receive the status of the request through the 'My Requests' window, where they can schedule a pickup time for the requested package.
 ![](./frontend/screenshots/volunteer%20requests%20status.png)
 
-3. Business page
+3. Business page <br/>
 The section for item requests from volunteers, accessible to business users. They have the option to view a list of received requests, including details of the volunteer and the requested items. For each request, businesses can choose to accept or reject them.
 ![](./frontend/screenshots/volunteer%20requests.png)
